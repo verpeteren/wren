@@ -1,0 +1,4 @@
+main
+main.o
+dummy.o
+libdummy.a
